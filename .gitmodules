@@ -1,0 +1,4 @@
+[submodule "cpython-3.12.3"]
+	path = cpython-3.12.3
+	url = git@github.com:python/cpython.git
+	commit = f6650f9ad73359051f3e558c2431a109bc016664
